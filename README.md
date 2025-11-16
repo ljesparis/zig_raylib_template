@@ -2,6 +2,8 @@
 
 template repository to build and run zig + raylib_zig (raylib wrapper).
 
+side note: I'm lazy
+
 # Steps 
 
 ## fetch raylib dep
